@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "test memo"
             }
+          },
+          {
+            "id": "6cd2b91949934a91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
           }
         ]
       }
